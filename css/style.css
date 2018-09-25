@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+.wrapper{
+	 margin: auto;
+    width: 80%;
+    padding: 5px;
+}
+
+video{
+	margin: auto;
+	width:75%;
+
+}
